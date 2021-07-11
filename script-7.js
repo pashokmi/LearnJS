@@ -26,4 +26,4 @@ function done() {
   console.log('Я прошел этот урок!');
 }
 
-learnJS('JavaScript', done)
+learnJS('JavaScript', done);
